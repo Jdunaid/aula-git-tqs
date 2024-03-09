@@ -1,0 +1,12 @@
+Dados do aluno
+
+-Primeiro Nome: Jdunaide
+-Profissão: Estudante
+-Cidade: Maputo
+-O que faz nas horas vaga: Ler livros, praticar desporto, ver TV, filmes e seriados.
+-Feedback sobre a disciplina Teste e Qualidade de Software: Disciplina interessante, porem, ainda com muito por aprender, praticar e implementar.
+-Feedback sobre a metodologia das aulas da disciplina: Metodologia efeciente, com necessidade de mais aulas praticas.
+
+Obrigado!!!
+
+
